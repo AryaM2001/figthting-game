@@ -1,0 +1,19 @@
+Player 1 Controls
+
+Move Left:  A key
+Move Right: D key
+Jump:       W key
+Attack 1:   LShift key
+
+
+Player 2 Controls
+
+Move Left:  Left Arrow key
+Move Right: Right Arrow key
+Jump:       Up Arrow Key
+Attack 1:   RShift key
+
+
+Eliminate the opponent player by dealing damage to their health bar with your attacks.
+The player that gets their opponent's health bar to 0 wins the game.
+
